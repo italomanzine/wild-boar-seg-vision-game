@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](assets/banner.png)
+![Banner](assets/fig1.jpg)
 
 **Sistema gamificado de detecção e segmentação de javalis (Sus scrofa) usando Visão Computacional com YOLOv8-seg.**
 
